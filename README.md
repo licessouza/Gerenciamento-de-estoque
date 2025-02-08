@@ -31,15 +31,10 @@ O código é estruturado da seguinte forma:
    [[MENU]]
 
 [1] ADICIONAR PRODUTO  
-
 [2] EXCLUIR PRODUTO  
-
 [3] ATUALIZAR PRODUTO  
-
 [4] VISUALIZAR ESTOQUE  
-
 [0] SAIR DO SISTEMA  
-
 Selecione uma opção: 1  
 
 Digite o nome do produto: Caneta  
