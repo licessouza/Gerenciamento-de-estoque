@@ -36,35 +36,21 @@ O código é estruturado da seguinte forma:
 [4] VISUALIZAR ESTOQUE  
 [0] SAIR DO SISTEMA  
 Selecione uma opção: 1  
-
 Digite o nome do produto: Caneta  
-
 Insira o seu preço: 1.50  
-
 Insira a quantidade: 10  
-
 "Caneta" adicionado ao estoque com 10 item(s) à R$1.50 cada.  
-
 Pressione ENTER para voltar ao menu principal.
 
-[[MENU]]
-
+[[MENU]]  
 [1] ADICIONAR PRODUTO  
-
 [2] EXCLUIR PRODUTO  
-
 [3] ATUALIZAR PRODUTO  
-
 [4] VISUALIZAR ESTOQUE  
-
 [0] SAIR DO SISTEMA  
-
 Selecione uma opção: 4  
-
 "1: Caneta, Preço: R$ 1.50, Quantidade: 10 item(s).  
-
-Pressione ENTER para voltar ao menu principal.
-
+Pressione ENTER para voltar ao menu principal. 
 
 ## Observações
 
